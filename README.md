@@ -39,3 +39,21 @@
       -> Perform payments via either print outs of invoices or mobile money.
       -> Perform rescheduling of appointments.
       -> Complain to the trainer or Cashier.
+
+  3.3 TYPE OF DATA HELD ON ENTITIES IN THE SYSTEM.
+    3.3.1 Clients
+      -> First Name
+      -> Last Name
+      -> Date of Birth: (DD MM YYYY)
+      -> National Identification Number
+      -> Address: (City, Village)
+      -> Tel. Number
+      -> Email Address
+      -> Type of services required(1:5)
+
+    3.3.2 Transactions
+      3.3.2.1 Orders
+      3.3.2.2 Advance Payments
+      3.3.2.3 Registration
+      3.3.2.4 Club Membership
+      3.3.2.5 
